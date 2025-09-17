@@ -11,33 +11,8 @@ This is a **showcase hub** where I document my ideas, concepts, and prototypes f
 
 ## 🚀 Vision  
 ImpactSystems is about **bridging technology and humanity**.  
-It’s not just projects — it’s about **systems that outlive me**, helping people whether I’m there or not.  
+It’s not just projects, it’s about **systems that outlive me**, helping people whether I’m there or not.  
 
-✅ Applying **AI + Cybersecurity** to real-world problems  
-✅ Exploring how tech can advance **healthcare, education, climate, and trust**  
-✅ Building projects that **align with Sustainable Development Goals (SDGs)** and beyond  
-✅ Sharing learning openly while keeping business-critical code private  
-
----
-
-## 🔹 Current Focus Areas  
-
-- 🔐 **AI-Powered Misinformation Detection** – combatting fake news & securing digital trust  
-- 🏥 **Privacy-Preserving AI in Healthcare** – federated learning for patient safety & data security  
-- 🌱 **Sustainable Tech Solutions** – tools for environment, climate, and community development  
-- 📡 **Other Explorations** – identifying gaps where innovative systems can break through  
-
----
-
-## 📂 Repo Structure  
-
-This **public repo** includes:  
-- 📘 **Concept Notes** → High-level ideas, design notes, research insights  
-- 🎨 **Design Mockups** → Wireframes, diagrams, and future UI flows  
-- 📄 **Documentation** → Blogs & reflections on impact-driven projects  
-- 🧪 **Prototypes** → Safe-to-share demo snippets (not business-sensitive code)  
-
-👉 The **private repo (`ImpactSystems-Core`)** contains the actual production-ready codebases.  
 
 ---
 
