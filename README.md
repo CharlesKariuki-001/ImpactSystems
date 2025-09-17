@@ -30,4 +30,4 @@ This repo is under the **MIT License** for all documentation and prototypes shar
 
 ---
 
-<p align="center"> 🌍 ImpactSystems – Technology for Lasting Change ✨ </p>
+<p align="center"> 🌍 ImpactSystems ---- Technology for Lasting Change ✨ </p>
